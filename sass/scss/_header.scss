@@ -1,0 +1,11 @@
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    &__logo {
+      text-align: center;
+    }
+
+    &__img {
+      max-width: 350px;
+    }
+}
